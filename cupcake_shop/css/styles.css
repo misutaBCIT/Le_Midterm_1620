@@ -1,0 +1,40 @@
+body {
+    background-color: #7EA8BE;
+}
+
+h2 {
+    font-family: 'Kumbh Sans', sans-serif;
+}
+
+.navigation ul {
+  float: top;
+  color: #28536B;
+  text-align: left;
+  padding: 16px 20px 16px;
+  font-size: 18px;
+  background-color: #F6F0ED;
+  font-family: 'Kumbh Sans', sans-serif
+}
+
+.navigation a {
+    padding: 10px 40px 10px;
+}
+
+p {
+    font-family: 'Coustard', serif;
+    font-size: 18px;
+}
+
+.imageleft img {
+    max-width: 30%;
+    margin-right: 10px;
+    height:auto;
+    float: left;
+}
+
+.imageright img {
+    max-width: 30%;
+    margin-left: 10px;
+    height: auto;
+    float: right;
+}
